@@ -8,4 +8,5 @@ pypdf
 python-docx
 gradio
 requests
+docx2txt
 beautifulsoup4
